@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Raspored FER//Generirani Raspored//HR
+PRODID:-//Raspored//Raspored//HR
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Raspored - Zimski semestar 2026/2027
